@@ -1,0 +1,9 @@
+C:\Users\PPP\Documents\Visual Studio 2012\Projects\PDU\PDU\bin\Debug\PDU.exe.config
+C:\Users\PPP\Documents\Visual Studio 2012\Projects\PDU\PDU\bin\Debug\PDU.exe
+C:\Users\PPP\Documents\Visual Studio 2012\Projects\PDU\PDU\bin\Debug\PDU.pdb
+C:\Users\PPP\Documents\Visual Studio 2012\Projects\PDU\PDU\obj\Debug\PDU.Form1.resources
+C:\Users\PPP\Documents\Visual Studio 2012\Projects\PDU\PDU\obj\Debug\PDU.Properties.Resources.resources
+C:\Users\PPP\Documents\Visual Studio 2012\Projects\PDU\PDU\obj\Debug\PDU.csproj.GenerateResource.Cache
+C:\Users\PPP\Documents\Visual Studio 2012\Projects\PDU\PDU\obj\Debug\PDU.exe
+C:\Users\PPP\Documents\Visual Studio 2012\Projects\PDU\PDU\obj\Debug\PDU.pdb
+C:\Users\PPP\Documents\Visual Studio 2012\Projects\PDU\PDU\obj\Debug\PDU.csprojResolveAssemblyReference.cache
