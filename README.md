@@ -21,4 +21,5 @@ This is only proof of concept code.
 
 5. My phone and modem sends this without any problems and I've only tested it on them so I can help you if your modem does not send unless its thesame model as mine.
 
+6. phone number has to be in full international format (Google if you dont know what it is)
 Here is what it looks like on a phone https://github.com/banjaxbanjo/WapPushSmser/blob/master/poc.jpg
