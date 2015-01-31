@@ -19,7 +19,7 @@ This is only proof of concept code.
 
 4. the expiry data has to be more than the current date and time otherwise the user wont get the sms. (If you use a date less than the current this becomes a silent sms) date format has to be the same as you see in the app otherwise sms wont send.
 
-5. My phone and modem sends this without any problems and I've only tested it on them so I can help you if your modem does not send unless its thesame model as mine.
+5. My phone and modem sends this without any problems and I've only tested it on them so I cant help you if your modem does not send unless its the same model as mine.
 
 6. phone number has to be in full international format (Google if you dont know what it is)
 Here is what it looks like on a phone https://github.com/banjaxbanjo/WapPushSmser/blob/master/poc.jpg
