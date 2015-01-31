@@ -17,7 +17,7 @@ This is only proof of concept code.
 
 3. modem has to be in PDU mode, AT+CMGF=0 is the command to put it in PDU mode.
 
-4. the expiry data has to be more than the current date and time otherwise the user wont get the sms. (If you use a date less than the current this becomes a silent sms)
+4. the expiry data has to be more than the current date and time otherwise the user wont get the sms. (If you use a date less than the current this becomes a silent sms) date format has to be the same as you see in the app otherwise sms wont send.
 
 5. My phone and modem sends this without any problems and I've only tested it on them so I can help you if your modem does not send unless its thesame model as mine.
 
