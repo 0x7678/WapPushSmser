@@ -2,6 +2,8 @@
 
 Code is alpha and might not work with your usb modem/phone.
 
+#python version comming soon
+
 Create and send wap push sms to phones that have it enabled, if the user doesnt have allow wap push messages enabled they will not get the sms.
 
 Download Visual studio to compile and create exe. there is an exe in the debug folder already built.
