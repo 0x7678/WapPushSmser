@@ -2,7 +2,9 @@
 
 Code is alpha and might not work with your usb modem/phone.
 
-#python version comming soon
+#python version
+
+https://github.com/banjaxbanjo/smsfuzzer  use the ./wap_push_py.py file
 
 Create and send wap push sms to phones that have it enabled, if the user doesnt have allow wap push messages enabled they will not get the sms.
 
